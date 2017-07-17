@@ -37,6 +37,7 @@ voice.conc.fallbackpath=deep-buffer
 voice.playback.conc.disabled=true
 voice.record.conc.disabled=false
 voice.voip.conc.disabled=true
+flac.sw.decoder.24bit.support=true
 
 # Bluetooth
 bluetooth.hfp.client=1
@@ -82,6 +83,9 @@ ro.sf.lcd_density=480
 
 # Fingerprint
 persist.qfp=false
+
+# Fm
+ro.fm.transmitter=false
 
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/config
