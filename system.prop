@@ -2,9 +2,6 @@
 # system.prop for NX549J
 #
 
-# Art
-ro.sys.fw.dex2oat_thread_count=4
-
 # Audio
 af.fast_track_multiplier=2
 audio.deep_buffer.media=true
@@ -90,6 +87,11 @@ ro.fm.transmitter=false
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 
+# GPS
+persist.gps.qc_nlp_in_use=1
+persist.loc.nlp_name=com.qualcomm.location
+ro.gps.agps_provider=1
+
 # Media
 av.debug.disable.pers.cache=1
 media.aac_51_output_enabled=true
@@ -146,6 +148,7 @@ telephony.lteOnCdmaDevice=1,1
 ro.vendor.extension_library=libqti-perfd-client.so
 ro.vendor.gt_library=libqti-gt.so
 ro.vendor.at_library=libqti-at.so
+ro.sys.fw.dex2oat_thread_count=4
 
 # QMI
 persist.data.qmi.adb_logmask=0
