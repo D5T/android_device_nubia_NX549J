@@ -11,9 +11,9 @@
 | Shipped Android Version | 6.0.1                             |
 | Storage                 | 64/128 GB                         |
 | MicroSD                 | Up to 200 GB                      |
-| Battery                 | 4100 mAh (non-removable)          |
-| Dimensions              | 151 x 76 x 8.5 mm                 |
-| Display                 | 1920x1080 pixels, 5.5 (~401 PPI)  |
+| Battery                 | 3000 mAh (non-removable)          |
+| Dimensions              | 146 x 72 x 7.6 mm                 |
+| Display                 | 1920x1080 pixels, 5.2" (424 PPI)  |
 | Rear Camera             | 23 MP (Sony IMX318), LED flash    |
 | Front Camera            | 13 MP (Sony IMX258)               |
 | Release Date            | October 2016                      |
